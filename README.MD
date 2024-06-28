@@ -9,3 +9,6 @@ Images are built with [GitHub Actions](https://github.com/features/actions). Bui
 ## License
 
 MIT
+
+
+docker build . -t sockes5-test
