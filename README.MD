@@ -12,3 +12,5 @@ MIT
 
 
 docker build . -t sockes5-test
+docker run -p8091:80 sockes5-test
+
