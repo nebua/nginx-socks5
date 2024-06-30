@@ -11,6 +11,6 @@ Images are built with [GitHub Actions](https://github.com/features/actions). Bui
 MIT
 
 
-docker build . -t sockes5-test
+docker build . -t socks5-test
 docker run -p8091:80 sockes5-test
 
