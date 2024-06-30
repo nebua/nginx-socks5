@@ -1,6 +1,6 @@
 FROM ubuntu:18.04 AS nginx-build
 
-ARG NGINX_VERSION=1.18.0
+ARG NGINX_VERSION=1.27.0
 
 RUN apt-get update && \
     apt-get install -y \
